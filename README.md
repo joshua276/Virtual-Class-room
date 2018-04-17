@@ -1,4 +1,4 @@
-# Virtual Class Room:
+# Virtual Classroom:
      Create a web application using Java Servlets, JSPs and MySQL for following requirements:
         1) Two different types of Logins (Student, Faculty)
             i) Student Login:
