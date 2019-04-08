@@ -1,7 +1,7 @@
 <%-- 
     Document   : StudentDashboard
     Created on : Apr 16, 2018, 3:22:23 AM
-    Author     : Shashwat Kadam
+    Author     : Joshua Reynold
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

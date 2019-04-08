@@ -21,7 +21,7 @@ import javax.servlet.RequestDispatcher;
  */
 public class UpdateProfileFaculty extends HttpServlet {
     private final String CONN_STRING = "jdbc:mysql://localhost:3306/virtualclass";
-    private final String U_NAME = "Shashwat";
+    private final String U_NAME = "Joshua";
     private final String PWD = "";
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
